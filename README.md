@@ -1,7 +1,7 @@
 <h2><b>About me:</b></h2>
-Entry-level programmer / system administrator.  
-I’m trying to write decent code.  
-I would welcome constructive criticism and support.  
+Entry-level programmer / system administrator.\
+I’m trying to write decent code.\
+I would welcome constructive criticism and support.\
 
 ## I have a command of this, though not perfectly:
 
