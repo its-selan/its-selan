@@ -2,7 +2,7 @@
 
 * Entry-level programmer / system administrator.
 
-* I’m interested in Linux, programming, etc.
+* I'm interested in Linux, programming (see my stack below), and how the AI space is evolving.
 * I’m trying to write decent code.
 
 * I would welcome constructive criticism and support.
