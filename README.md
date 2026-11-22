@@ -1,10 +1,11 @@
-<h2><b>☘︎🍀 About me:</b></h2>
-Entry-level programmer / system administrator.
+<h2><b>🍀 About me:</b></h2>
 
-I’m interested in Linux, programming, etc.
-I’m trying to write decent code.
+* Entry-level programmer / system administrator.
 
-I would welcome constructive criticism and support.
+* I’m interested in Linux, programming, etc.
+* I’m trying to write decent code.
+
+* I would welcome constructive criticism and support.
 
 ## I have a command of this, though not perfectly:
 
@@ -14,6 +15,6 @@ I would welcome constructive criticism and support.
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-## Socials
+## 🌐 Socials
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1258067707060813867) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Its_Selan)
