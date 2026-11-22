@@ -1,4 +1,4 @@
-<h2><b>About me:</b></h2>
+<h2><b>☘︎🍀 About me:</b></h2>
 Entry-level programmer / system administrator.
 
 I’m interested in Linux, programming, etc.
